@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2016, 10:44:30 AM
+    Author     : QuangThang
+*/
+
+.rank {
+    width: 20%;
+    float: right;
+    background: #ffffff;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 10%;
+    position: absolute;
+    margin-left: 50%;
+    z-index: 1000;
+}
+
+.rank p {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    text-align: center;
+    border-bottom: 1px ridge #ffffff;
+    background: #337AB7;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.rank ul {
+    margin: 0;
+    padding: 0;
+}
+
+.rank ul li {
+    float: left;
+    display: block;
+    padding-left: 10px;
+    border-bottom: 1px ridge #ffffff;
+    width: 95%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rank ul li a {
+    text-decoration: none;
+    margin:10px;
+    font-size: 20px;
+}
+
+.rank ul li a img {
+    width: 20%;
+    float: left;
+    border-radius: 12px;
+    padding-top: 5px;
+}
+
+.rank ul li span {
+    width: 20px;
+    height: 20px;
+    float: left;
+    display: block;
+    background:  #45e9b7;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 100%;
+    padding: 5px;
+}
+
+.rank ul li span:hover {
+    background: #4bffc8;
+}

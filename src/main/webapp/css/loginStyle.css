@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 10, 2016, 2:59:37 PM
+    Author     : NotMe
+*/
+
+.login {
+    width: 50%;
+    margin-left: 15%;
+    float: left;
+    height: 1000px;
+    margin-top: 20px;
+}
+
+.box {
+    border: groove 2px #ccccff;
+}
+
+
+.box button{
+    width: 20%;
+    margin-left: 40%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.box p {
+    width: 35%;
+    float: left;
+    margin: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box input {
+    width: 45%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box h3 {
+    text-align: center;
+}
+
+.box a {
+    width: 30%;
+    text-decoration: none;
+    display: block;
+    margin-left: 40%;
+    margin-right: 0;
+    margin-bottom: 5px;
+}
+
+.signup {
+    width: 50%;
+    margin-left: 15%;
+    float: left;
+    height: 1000px;
+    margin-top: 20px;
+}
+
+.signup h3 {
+    text-align: center;
+}
+
+.signup form input {
+}
+
+.signup form p {
+    margin: 0;
+}
+
+.sex input {
+    width: 10%;
+}

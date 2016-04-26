@@ -1,0 +1,10 @@
+com/bmth/MyServlet/ImageServlet.class
+com/bmth/DAO/Register.class
+com/bmth/bean/Account.class
+com/bmth/bean/Comment.class
+com/bmth/bean/User.class
+com/bmth/MyServlet/UserServlet.class
+com/bmth/bean/Image.class
+com/bmth/DAO/CommentDAO.class
+com/bmth/DatabaseConnection/MyConnection.class
+com/bmth/DAO/ImageDAO.class
